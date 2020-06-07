@@ -3,7 +3,7 @@
 ## About
 Degree Project in Computer Engineering.\
 KTH Royal Institute of Technology,
-Stockholm, Swedem.\
+Stockholm, Sweden.\
 June 2020
 
 ## Authors
