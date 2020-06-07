@@ -1,8 +1,9 @@
 # Comparing Catastrophic Interference between Incremental Moment Matching and Hard Attention to the Task
 
 ## About
-Degree Project in Computer Engineering
-KTH Royal Institute of Technology
+Degree Project in Computer Engineering.\
+KTH Royal Institute of Technology,
+Stockholm, Swedem.\
 June 2020
 
 ## Authors
