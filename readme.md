@@ -20,7 +20,17 @@ When neural networks trained on data to solve one problem are trained on new dat
 The software setup follows the recommendations from the repository on which the code for this thesis is based. Specifically, using PyTorch as the framework and a Conda virtual environment running Python 3.6.8 with additional required packages installed. For detailed information, visit https://github.com/joansj/hat.
 
 ## Reference and link to thesis
-Our thesis can be found here https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1464868&dswid=8030.
+Harvard:
+Roos, Q. and Lilliesköld, W., 2020. Comparing Catastrophic Interference between Incremental Moment Matching-Mean and Hard Attention to the Task.
+
+BibTeX:
+@misc{roos2020comparing,
+  title={Comparing Catastrophic Interference between Incremental Moment Matching-Mean and Hard Attention to the Task},
+  author={Roos, Quintus and Lilliesk{\"o}ld, William},
+  year={2020}
+}
+
+Link to thesis: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1464868&dswid=8030.
 
 ## Notes
 We do not provide any support or assistance, nor do we assume and responsibity for the code in this repository.
